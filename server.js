@@ -1,5 +1,4 @@
 const server = require('./src/sampress.js');
-
 const app = new server();
 
 app.use((req, res, next) => {
