@@ -1,0 +1,16 @@
+{
+  "name": "sampress",
+  "version": "1.0.0",
+  "description": "A simple express implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/tests/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
