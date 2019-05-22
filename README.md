@@ -1,2 +1,2 @@
 # sampress
-A simple express implementation
+Sampress is a simple express implementation
